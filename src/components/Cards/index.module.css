@@ -1,0 +1,15 @@
+.conteiner{
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 90%;
+    height: auto;
+    place-content: center;
+    place-items: center;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
+    justify-content: space-evenly;
+
+}
